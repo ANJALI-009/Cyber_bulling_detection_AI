@@ -55,8 +55,6 @@ To set up and run this project locally, follow these steps:
 
 2. **Open your web browser** and navigate to the local URL provided by Streamlit (usually `http://localhost:8501`).
 
-<<<<<<< HEAD
-3. **Enter the text** you want to analyze in the text area and click the "Analyze Text" button to see the results. 
-=======
-3. **Enter the text** you want to analyze in the text area and click the "Analyze Text" button to see the results. 
->>>>>>> 02bf6a2de905ade586ab28671fb594b3ebd560e6
+3. **Enter the text** you want to analyze in the text area and click the "Analyze Text" button to see the results
+   
+4. **Enter the text** you want to analyze in the text area and click the "Analyze Text" button to see the results. 
